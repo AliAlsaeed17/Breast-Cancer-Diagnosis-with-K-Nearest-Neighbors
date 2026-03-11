@@ -61,9 +61,6 @@ The notebook `code.ipynb` walks through the complete machine learning pipeline:
 
 The confusion matrix below shows the model’s excellent performance – only **5 misclassifications** out of 114 test samples.
 
-![Confusion Matrix](assets/confusion_matrix.png)  
-*If you run the notebook, the plot will be generated automatically.*
-
 ---
 
 ## 🛠 Requirements
