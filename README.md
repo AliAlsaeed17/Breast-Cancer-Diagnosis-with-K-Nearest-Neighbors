@@ -75,11 +75,10 @@ The confusion matrix below shows the model’s excellent performance – only **
 - scikit‑learn
 - matplotlib
 
-Install all dependencies with:
+Install the required packages using pip:
 
 ```bash
-pip install -r requirements.txt
-(A requirements.txt file is included in the repository.)
+pip install numpy pandas scikit-learn matplotlib
 
 🚀 Getting Started
 Clone the repository
@@ -90,7 +89,6 @@ cd Breast-Cancer-Diagnosis-with-K-Nearest-Neighbors
 Install dependencies
 
 bash
-pip install -r requirements.txt
 Launch Jupyter Notebook
 
 bash
