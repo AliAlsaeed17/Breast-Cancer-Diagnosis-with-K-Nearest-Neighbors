@@ -3,7 +3,6 @@
 [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/release/python-31010/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.2.2-orange)](https://scikit-learn.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-green)](https://jupyter.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 An end‑to‑end machine learning project that predicts whether a breast tumour is **benign** or **malignant** using the **K‑Nearest Neighbors (KNN)** algorithm.  
 The model achieves **95.6% accuracy** and **94.4% F1‑score** on the well‑known Wisconsin Diagnostic Breast Cancer dataset.
@@ -100,7 +99,7 @@ This project is open source and available under the MIT License.
 
 👤 Author
 Ali Alsaeed
-
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-green)](https://jupyter.org/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/AliAlsaeed17)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-alsaeed-42565b142/)
 
