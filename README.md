@@ -75,7 +75,7 @@ pip install -r requirements.txt
 Clone the repository
 
 bash
-git clone https://github.com/yourusername/breast-cancer-knn.git
+git clone https://github.com/AliAlsaeed17/Breast-Cancer-Diagnosis-with-K-Nearest-Neighbors
 cd breast-cancer-knn
 Install dependencies
 
