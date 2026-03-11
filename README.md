@@ -102,7 +102,7 @@ This project is open source and available under the MIT License.
 
 👤 Author
 Ali Alsaeed
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/AliAlsaeed17)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-alsaeed-42565b142/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)] (https://github.com/AliAlsaeed17) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/ali-alsaeed-42565b142/)
 
 ⭐ If you find this project useful, please consider giving it a star! ⭐
