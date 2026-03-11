@@ -78,6 +78,7 @@ Install the required packages using pip:
 
 ```bash
 pip install numpy pandas scikit-learn matplotlib
+```
 
 🚀 Getting Started
 Clone the repository
